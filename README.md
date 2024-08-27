@@ -120,7 +120,9 @@ Include screenshot of the dataset
 
 ## DATA SET
 
-![dl 1](https://github.com/user-attachments/assets/939eaf38-3e62-4d93-8716-aea23c7206e8)
+![dl 1](https://github.com/user-attachments/assets/3b919f72-a515-4b3d-8856-a9934d28d977)
+
+
 
 
 ### Training Loss Vs Iteration Plot
