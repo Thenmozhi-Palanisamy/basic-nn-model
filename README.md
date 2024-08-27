@@ -76,15 +76,16 @@ y=dataset1[['Output']].values
 ```
 
 ## Split the testing and training data
+```
 
 X_train,X_test,y_train,y_test = train_test_split(X,y,test_size=0.33,random_state=33)
 Scaler=MinMaxScaler()
 Scaler.fit(X_train)
 X_train1=Scaler.transform(X_train)
 
-
+```
 ## Build the Deep learning Model
-
+```
 ai_brain=Sequential([
      Dense(units=8,activation='relu'),
      Dense(units=10,activation='relu'),
@@ -98,8 +99,9 @@ loss_df = pd.DataFrame(ai_brain.history.history)
 loss_df.plot()
 
 
-
+```
 ## Evaluate the Model
+```
 loss_df=pd.DataFrame(ai_brain.history.history)
 loss_df.plot()
 X_test1=Scaler.transform(X_test)
@@ -108,7 +110,7 @@ X_n1=[[4]]
 X_n1=Scaler.transform(X_n1)
 ai_brain.predict(X_n1)
 
-
+```
 `
 ## Dataset Information
 
