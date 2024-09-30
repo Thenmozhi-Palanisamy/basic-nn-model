@@ -1,4 +1,4 @@
-![1-1](https://github.com/user-attachments/assets/58aae8fe-7a1d-4efc-9bdb-76ad2baf3041)![1-1](https://github.com/user-attachments/assets/c01461b4-78dd-4162-aa46-85df37d2ebfc)# Developing a Neural Network Regression Model
+###  Developing a Neural Network Regression Model
 
 ## AIM
 
