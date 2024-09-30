@@ -17,6 +17,7 @@ Neural Network regression model is a type of machine learning algorithm inspired
 
 ![Uploading 363561926-ed81faab-be6b-40cb-b2ed-50c33237c2c0.png…]()
 
+![Uploading 1-1.png…]()
 
 
 ## DESIGN STEPS
