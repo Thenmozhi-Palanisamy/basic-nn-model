@@ -1,4 +1,4 @@
-# Developing a Neural Network Regression Model
+![1-1](https://github.com/user-attachments/assets/58aae8fe-7a1d-4efc-9bdb-76ad2baf3041)![1-1](https://github.com/user-attachments/assets/c01461b4-78dd-4162-aa46-85df37d2ebfc)# Developing a Neural Network Regression Model
 
 ## AIM
 
@@ -15,10 +15,7 @@ Neural Network regression model is a type of machine learning algorithm inspired
 
 Neural Network regression model is a type of machine learning algorithm inspired by the structure of the brain. It excels at identifying complex patterns within data and using those patterns to predict continuous numerical values.his includes cleaning, normalizing, and splitting your data into training and testing sets. The training set is used to teach the model, and the testing set evaluates its accuracy. This means choosing the number of layers, the number of neurons within each layer, and the type of activation functions to use.The model is fed the training data.Once trained, you use the testing set to see how well the model generalizes to new, unseen data. This often involves metrics like Mean Squared Error (MSE) or Root Mean Squared Error (RMSE).Based on the evaluation, you might fine-tune the model's architecture, change optimization techniques, or gather more data to improve its performance.
 
-![Uploading 363561926-ed81faab-be6b-40cb-b2ed-50c33237c2c0.png…]()
-
-![Uploading 1-1.png…]()
-
+![1-1](https://github.com/user-attachments/assets/400c61c1-63dc-4287-956f-a14be6e9b9b7)
 
 ## DESIGN STEPS
 
